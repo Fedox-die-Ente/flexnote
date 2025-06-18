@@ -70,7 +70,17 @@ adventures, even if they end with us eating weeds. At least we'll have a good st
 				</div>
 
 				<slot/>
+
+				<div class="flex flex-row gap-2">
+					<a class="text-gray cursor-pointer" href="/imprint">
+						Imprint
+					</a>
+					<a class="text-gray cursor-pointer" href="/privacy">
+						Privacy Policy
+					</a>
+				</div>
 			</div>
+
 		</div>
 
 		<!-- Content Area - Right Part -->
